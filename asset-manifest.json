@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd0681e7.css",
+    "main.js": "/static/js/main.7278cce0.js",
+    "static/js/453.6e1dd4de.chunk.js": "/static/js/453.6e1dd4de.chunk.js",
+    "static/media/howtoapplyvideo.mp4": "/static/media/howtoapplyvideo.101e3e02b2a38e1929c0.mp4",
+    "static/media/sbi-logo-33219.png": "/static/media/sbi-logo-33219.c2a7a8d82caf6185df07.png",
+    "static/media/banner5.jpg": "/static/media/banner5.e7565f1ae57882ebb45e.jpg",
+    "static/media/card4.png": "/static/media/card4.32333bd085da39ab6a1c.png",
+    "static/media/card2.png": "/static/media/card2.9be66b3947d3333446b9.png",
+    "static/media/banner6.jpg": "/static/media/banner6.655c263956514c9fb2d3.jpg",
+    "static/media/banner42.jpg": "/static/media/banner42.cf2d5571dad7a0902ace.jpg",
+    "static/media/card1.png": "/static/media/card1.39252dc2d96176a2b783.png",
+    "static/media/card5.png": "/static/media/card5.56ecea66511668c81101.png",
+    "static/media/card3.png": "/static/media/card3.2381044b354af2defb10.png",
+    "static/media/banner33.jpg": "/static/media/banner33.7f94647e3e6fe7270452.jpg",
+    "static/media/banner36.jpg": "/static/media/banner36.050152a8dc5138ffc41f.jpg",
+    "static/media/sbi-logo-33205.png": "/static/media/sbi-logo-33205.a8b42fbbe4b3e263da22.png",
+    "static/media/sbilogowhite.jpeg": "/static/media/sbilogowhite.17dc97bd3d8649d01003.jpeg",
+    "static/media/product4.jpeg": "/static/media/product4.5d5a7c7948bd29c3b337.jpeg",
+    "static/media/location.png": "/static/media/location.5e3f7d873407f1455d62.png",
+    "static/media/banking.png": "/static/media/banking.5808157edad742028f82.png",
+    "static/media/customercare.avif": "/static/media/customercare.f05298249f8415cc2eff.avif",
+    "static/media/product3.jpeg": "/static/media/product3.966516c3a678d16a40d4.jpeg",
+    "index.html": "/index.html",
+    "main.bd0681e7.css.map": "/static/css/main.bd0681e7.css.map",
+    "main.7278cce0.js.map": "/static/js/main.7278cce0.js.map",
+    "453.6e1dd4de.chunk.js.map": "/static/js/453.6e1dd4de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd0681e7.css",
+    "static/js/main.7278cce0.js"
+  ]
+}
